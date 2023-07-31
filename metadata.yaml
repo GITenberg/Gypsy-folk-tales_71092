@@ -1,5 +1,8 @@
 _repo: Gypsy-folk-tales_71092
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71092-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Groome, Francis Hindes
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9401
     wikipedia: https://en.wikipedia.org/wiki/Francis_Hindes_Groome
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71092#Gypsy-folk-tales
 gutenberg_issued: '2023-07-02'
 identifiers:
   gutenberg: '71092'
